@@ -1,5 +1,10 @@
 # Turborepo starter
 
+
+    - To create the turbo repo in the folder you are.
+        - npx create-turbo@latest
+ 
+
 This is an official Yarn v1 starter turborepo.
 
 ## What's inside?
